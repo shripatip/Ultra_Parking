@@ -1,0 +1,49 @@
+{
+    "Parking":[
+        {
+            "id":1,
+            "ownerName":"Shripati Pandey",
+            "carNumber":"UP-78-AV-6222",
+            "parked":true,
+            "cheakinTime":"28 Aug 22  16:21",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":2,
+            "ownerName":"Narendra Modi",
+            "carNumber":"GJ-12-PQ-6291",
+            "parked":false,
+            "cheakinTime":"28 Aug 22  16:43",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":3,
+            "ownerName":"Sushmita Sen",
+            "carNumber":"WB-32-NR-9271",
+            "parked":true,
+            "cheakinTime":"28 Aug 22  16:55",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":4,
+            "ownerName":"Nitish Yadav",
+            "carNumber":"BH-78-AV-6222",
+            "parked":false,
+            "cheakinTime":"28 Aug 22  19:27",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":5,
+            "ownerName":"Rahul Gandhi",
+            "carNumber":"dl-32-23-9071",
+            "parked":true,
+            "cheakinTime":"28 Aug 22  16:25",
+            "cheakoutTime":""
+    
+        }
+    ]
+}

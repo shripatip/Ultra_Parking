@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  box-sizing: border-box;
+  color: #333;
+}
+.navbar {
+  padding: 20px 20px 5px 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 5px auto;
+}
+
+.App {
+  margin-top: 50px;
+  background-color:#FFFFF7;
+}
+
+
+.pages {
+  margin-left: auto;
+}
+
+.content {
+  max-width: 600px;
+  margin: 20px auto;
+  
+}
+
+
+.car-list{
+  padding-bottom: 30px;
+}
+.car-preview {
+  margin: 20px 0px;
+  padding: 20px 0px;
+  border-radius: 4px;  
+}
+
+.car-preview h2 {
+  padding-bottom: 10px;
+  color: #f1356d;
+  padding-left:10px;
+}
+
+.car-preview p {
+  padding-bottom: 5px;
+  padding-left:10px;
+  color: #f1356d;
+}
+
+.car-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.9);
+}
+
+.car-preview > a {
+  text-decoration: none;
+}
+
+.car-details {
+
+  width: 500px;
+  display: inline-flex;
+}
+.car-details h2 {
+  font-size: 30px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+/* for create */
+.create {
+
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
